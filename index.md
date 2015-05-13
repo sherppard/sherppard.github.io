@@ -21,6 +21,6 @@ layout: home
         {% endfor %}
         </ul>
     </div>
-    <div class="aside">
+    <div class="aside"><img src='images/startimg/chappie.jpg'></div>
     </div>
 </div>
