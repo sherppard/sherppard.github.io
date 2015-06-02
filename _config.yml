@@ -22,12 +22,12 @@ icon:		/assets/images/icon.png
 cover:		/assets/images/cover.jpg
 
 social:
-  - icon:	twitter
-    url:	https://twitter.com/iancamporez
+  - icon:	facebook
+    url:	https://www.facebook.com/ka.jam.963
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/sherpper
     desc:	Fork me on github
 
   - icon:	googleplus-alt
@@ -35,7 +35,7 @@ social:
     desc:	Add me on google+
 
   - icon:	feed
-    url:	http://camporez.com/atom.xml
+    url:	http://sherpper.github.io/atom.xml
     desc:	Subscribe to my feed
     
 menu:
