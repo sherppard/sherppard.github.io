@@ -38,6 +38,7 @@ selenium : [demo](http://www.cnblogs.com/fnng/p/3160606.html)[使用详解](http
 3.模拟http报文发送的模块  
 
 urllib2
+
 - [一篇关于urllib2的demo](http://zhuoqiang.me/python-urllib2-usage.html#cookie)
 - [一篇关于urllib2模块的详细解说_很透彻](http://www.cnblogs.com/daoluanxiaozi/p/3281706.html)
 - [urllib2源码详解](http://xw2423.byr.edu.cn/blog/archives/794#viewSource)
