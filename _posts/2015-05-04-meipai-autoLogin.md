@@ -20,10 +20,15 @@ video: false
 1.模拟浏览器的模块 
 
 mechanize
+
 pyv8
+
 [上面两个模块的简单介绍](http://blog.sina.com.cn/s/blog_571b19a0010136xe.html)
+
 Splinter : [简单介绍](http://blog.csdn.net/lanbing510/article/details/8489715)
+
 selenium : [demo](http://www.cnblogs.com/fnng/p/3160606.html)[使用详解](http://www.cnblogs.com/fnng/p/3157639.html)
+
 
 2.python调用其他py脚本返回值 
 
@@ -33,6 +38,7 @@ selenium : [demo](http://www.cnblogs.com/fnng/p/3160606.html)[使用详解](http
 
 使用os模块，调用系统命令执行
 > os.system('python3 /home/xxx.py') 只能返回0
+
 > os.popen('python3 /home/xxx.py') 这可以将脚本返回值进行导出
 
 3.模拟http报文发送的模块  
@@ -52,6 +58,7 @@ urllib 与 urllib2 为什么总是一起结伴出现？
 urllib.urlencode() 是urllib2没有的方法，而这又是经常使用的功能
 
 python3下urllib跟urllib2变成一个package urllib，而不是模块
+
 
 4.Oauth2.0认证机制
 
