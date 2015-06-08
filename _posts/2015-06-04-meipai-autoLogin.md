@@ -80,15 +80,15 @@ htmllib的使用远比Beautifulsoup要麻烦很多，htmllib一定要修改基�
 
 而BeautifulSoup只要很简单的几行代码就可以实现，htmllib要写很多代码才可以实现，所以不推荐使用htmllib
 
-(BeautifulSoup 官方中文文档)[http://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html]  
+[BeautifulSoup 官方中文文档](http://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)  
 
-(BeautifulSoup 安装)[http://my.oschina.net/u/1432929/blog/189660?p=1]  
+[BeautifulSoup 安装](http://my.oschina.net/u/1432929/blog/189660?p=1)  
 
-(BeautifulSoup 入门)[http://www.cnblogs.com/yupeng/p/3362031.html]  
+[BeautifulSoup 入门](http://www.cnblogs.com/yupeng/p/3362031.html)
 
-(BeautifulSoup 详解)[http://blog.chinaunix.net/xmlrpc.php?r=blog/article&uid=22334392&id=3866984]
+[BeautifulSoup 详解](http://blog.chinaunix.net/xmlrpc.php?r=blog/article&uid=22334392&id=3866984)
 
-(BeautifulSoup 系列教材4篇)[http://blog.csdn.net/abclixu123/article/details/25658227]
+[BeautifulSoup 系列教材4篇](http://blog.csdn.net/abclixu123/article/details/25658227)
 
 python3 BeautifulSoup 模块导入方法：
 
@@ -103,11 +103,11 @@ python2.7 BeautifulSoup 模块导入方法：
 from bs4 import BeautifulSoup
 ```
 
-(HTMLParser 官方文档)[https://docs.python.org/3.4/library/html.parser.html#html.parser.HTMLParser.handle_starttag]
+[HTMLParser 官方文档](https://docs.python.org/3.4/library/html.parser.html#html.parser.HTMLParser.handle_starttag)
 
-(HTMLParser 模块详解)[http://www.cnblogs.com/yuxc/archive/2011/08/30/2159307.html]
+[HTMLParser 模块详解](http://www.cnblogs.com/yuxc/archive/2011/08/30/2159307.html)
 
-(HTMLParser 实际案例)[http://www.linuxidc.com/Linux/2014-05/101899.htm]
+[HTMLParser 实际案例](http://www.linuxidc.com/Linux/2014-05/101899.htm)
 
 4.Oauth2.0认证机制
 
