@@ -15,6 +15,16 @@ video: false
 
 因为[ipython](http://www.ituring.com.cn/article/40324)是交互性的，测试代码非常方便，而且帮助功能也非常齐全。
 
+ipython3 安装(适用于python3)
+
+> pip3 install ipython
+
+> pip3 install ipython[all]
+
+ipython 安装(适用于python2.7)
+
+> pip install ipython
+
 - 究竟如何实现自动化，怎么实现最好?
 
 ## 1.模拟浏览器的模块 
@@ -109,7 +119,15 @@ from bs4 import BeautifulSoup
 
 [HTMLParser 实际案例](http://www.linuxidc.com/Linux/2014-05/101899.htm)
 
-4.Oauth2.0认证机制
+## configParse 与 json 模块
+
+[Python ConfigParser的使用](http://my.oschina.net/lenglingx/blog/205486)
+
+[python3中用configparser对配置文件的读写](http://blog.sina.com.cn/s/blog_65a8ab5d0101ffqq.html)
+
+[json编码与解码(官方文档)](https://docs.python.org/3.3/library/json.html)
+
+## 4.Oauth2.0认证机制
 
 
 {% include image.html url="/media/2014-02-26-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
